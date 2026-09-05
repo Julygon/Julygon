@@ -1,4 +1,4 @@
-# 수정중(임시)
+## 임시프로필
 
 백엔드 개발자 · 대구
 `Java` `Spring Boot` `TypeScript` `NestJS` `PostgreSQL` `MySQL` `AWS` `Docker`
