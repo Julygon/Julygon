@@ -1,6 +1,6 @@
 # 남궁진용
 
-백엔드 개발자 · 대구
+백엔드 개발지망생
 `Java` `Spring Boot` `TypeScript` `NestJS` `PostgreSQL` `MySQL` `AWS` `Docker`
 
 <br>
